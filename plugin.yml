@@ -1,0 +1,111 @@
+name: SaungCosmetic
+main: Odidak\SaungCosmetics\SCosmetic
+api: 5.0.0
+version: 1.0.0
+author: Odidak
+
+commands:
+  cosmetic:
+    description: SaungMC Cosmetic UI
+    permission: odidak.saungcosmetic.cmd
+
+permissions:
+  odidak.saungcosmetic.cmd:
+    default: true
+    
+  odidak.agent.skin:
+    default: op
+  odidak.axolotl.skin:
+    default: op
+  odidak.bee.skin:
+    default: op
+  odidak.chicken.skin:
+    default: op
+  odidak.cow.skin:
+    default: op
+  odidak.creeper.skin:
+    default: op
+  odidak.enderman.skin:
+    default: op
+  odidak.irongolem.skin:
+    default: op
+  odidak.panda.skin:
+    default: op
+  odidak.pig.skin:
+    default: op
+  odidak.piglin.skin:
+    default: op
+  odidak.pillager.skin:
+    default: op
+  odidak.skeleton.skin:
+    default: op
+  odidak.snowgolem.skin:
+    default: op
+  odidak.strider.skin:
+    default: op
+  odidak.villager.skin:
+    default: op
+  odidak.vindicator.skin:
+    default: op
+  odidak.warden.skin:
+    default: op
+  odidak.witch.skin:
+    default: op
+  odidak.wither.skin:
+    default: op
+  odidak.zombie.skin:
+    default: op
+    
+  odidak.mdrowned.skin:
+    default: op
+  odidak.mgolem.skin:
+    default: op
+  odidak.mpiglin.skin:
+    default: op
+  odidak.mvillager.skin:
+    default: op
+  odidak.mzombie.skin:
+    default: op
+  
+  odidak.allow_block.skin:
+    default: op
+  odidak.amethyst.skin:
+    default: op
+  odidak.barrel.skin:
+    default: op
+  odidak.bedrock.skin:
+    default: op
+  odidak.blast_furnace.skin:
+    default: op
+  odidak.bookshelf.skin:
+    default: op
+  odidak.brick.skin:
+    default: op
+  odidak.coal_block.skin:
+    default: op
+  odidak.coal_ore.skin:
+    default: op
+  odidak.cobblestone.skin:
+    default: op
+  odidak.copper_ore.skin:
+    default: op
+  odidak.couldron.skin:
+    default: op
+  odidak.crafting_table.skin:
+    default: op
+  odidak.deny_block.skin:
+    default: op
+  odidak.diamond_block.skin:
+    default: op
+  odidak.diamond_ore.skin:
+    default: op
+  odidak.dirt_block.skin:
+    default: op
+  odidak.dispenser.skin:
+    default: op
+  odidak.dropper.skin:
+    default: op
+  odidak.emerald_block.skin:
+    default: op
+  odidak.emerald_ore.skin:
+    default: op
